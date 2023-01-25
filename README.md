@@ -1,1 +1,2 @@
 # odin-recipes
+Hello, this will be my first HTML project that will be giving recipes for food. The website will be very basic, but I will be displaying my knowledge of links, images, bolding, italicizing, and all the other tools I learned from HTML. I will stylize it further with CSS. o
