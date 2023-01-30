@@ -1,9 +1,24 @@
-img {
-    height: auto;         
-    width: 300px;
+.homepage {
+    height: 500px;         
+    width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 66.67%;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
     width: 50%;
 }
 
@@ -15,3 +30,16 @@ h1 {
 h3 {
     text-align: center;
 }
+
+body {
+    background-color: rgb(242, 242, 242);
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
